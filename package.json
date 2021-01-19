@@ -1,0 +1,17 @@
+{
+  "name": "express-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "urls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security",
+    "node-modules": "^1.0.1",
+    "process": "^0.11.10"
+  }
+}
